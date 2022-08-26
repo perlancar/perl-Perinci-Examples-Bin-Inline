@@ -1,9 +1,13 @@
 package Perinci::Examples::Bin::Inline;
 
-# DATE
-# VERSION
+use strict;
 
 our %SPEC;
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 $SPEC{noop} = {
     v => 1.1,
